@@ -1,3 +1,5 @@
+[English](README.md)
+
 此项目用于禁用Windows11更新
 
 使用方法：使用管理员权限的powershell下运行。
