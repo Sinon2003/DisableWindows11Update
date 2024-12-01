@@ -1,9 +1,10 @@
-[English](README.md)
+[简体中文](README.zh_CN.md)
 
-此项目用于禁用Windows11更新
+# DisableWindows11Update
+This project is used to disable Windows 11 updates.
 
-使用方法：使用管理员权限的powershell下运行。
+Run under PowerShell with administrative privileges.
 
-待优化问题： 
-1:  32位和64位操作系统二进制数据不同，注册表中的FailureActions键结构待优化。
-2:  部分代码逻辑待优化
+Optimization Issues: 
+1:  The binary data differs between 32-bit and 64-bit operating systems, and the structure of the FailureActions key in the registry requires further optimization.
+2:  Some code logic requires further optimization.
