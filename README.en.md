@@ -1,4 +1,4 @@
-[简体中文](README.zh_CN.md)
+[简体中文](README.md)
 
 # DisableWindows11Update
 This project is used to disable Windows 11 updates.
